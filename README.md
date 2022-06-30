@@ -1,4 +1,4 @@
-Here are some ideas to get you started:
+Good day to everyone !!!
 
 - 🔭 I’m currently working on bettering myself on tech
 - 🌱 I’m currently learning data science 
@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cristian.angel.ibarra@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: cat lover for life 
--->
