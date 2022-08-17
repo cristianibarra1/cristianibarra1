@@ -7,4 +7,4 @@ Good day to everyone !!!
 - 💬 Ask me about the animals 
 - 📫 How to reach me: cristian.angel.ibarra@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: cat lover for life 
+- ⚡ Fun fact: cat lover for life/
