@@ -6,5 +6,4 @@ Good day to everyone !!!
 - 🤔 I’m looking for help with python
 - 💬 Ask me about the animals,video games, and food
 - 📫 How to reach me: cristian.angel.ibarra@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: cat lover for life
