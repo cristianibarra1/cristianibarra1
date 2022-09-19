@@ -7,3 +7,4 @@ Good day to everyone !!!
 - 💬 Ask me about the animals,video games, and food
 - 📫 How to reach me: cristian.angel.ibarra@gmail.com
 - ⚡ Fun fact: cat lover for life
+- pronouns-
