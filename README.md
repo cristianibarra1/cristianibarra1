@@ -1,5 +1,6 @@
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-About me:
+
+ About me:
 
 - 🔭 I’m currently working on bettering myself on tech
 - 🌱 I’m currently learning data science 
