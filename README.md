@@ -9,4 +9,4 @@ Good day to everyone !!!
 - ⚡ Fun fact: cat lover for life
 -    Pronouns-he/him
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cristianibarra1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cristianibarra1&theme=dark&hide_border=true)](https://git.io/streak-stats)
