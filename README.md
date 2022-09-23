@@ -8,3 +8,5 @@ Good day to everyone !!!
 - 📫 How to reach me: cristian.angel.ibarra@gmail.com
 - ⚡ Fun fact: cat lover for life
 -    Pronouns-he/him
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cristianibarra1)](https://git.io/streak-stats)
