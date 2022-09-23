@@ -17,6 +17,9 @@ Hello Github About me:
 
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cristianibarra1&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true) 
 
-img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
- 
+<summary><b>Profile</b></summary>
+ <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianibarra1&theme=github_dark" alt="yasinnorozzadeh" align = "center"/></p>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
+
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
