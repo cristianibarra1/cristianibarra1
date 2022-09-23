@@ -1,7 +1,4 @@
-<p>
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-</p>
-
 About me:
 
 - 🔭 I’m currently working on bettering myself on tech
