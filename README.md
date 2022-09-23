@@ -15,8 +15,4 @@ Hello Github About me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianibarra1)](https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianibarra1&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Nacer KRAA   github stars"/>
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cristianibarra1&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true) 
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianibarra1&theme=github_dark" alt="yasinnorozzadeh" align = "center"/></p>
-
-
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
