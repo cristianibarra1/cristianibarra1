@@ -1,9 +1,8 @@
 <p>
- <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ <img align="left" width=200px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ <img align="right" width=200px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 </p>
-src="https://media3.giphy.com/media/TpNTATTp5c2Ri/giphy.gif?cid=790b7611a9ccd55e6b764aacf4c7a277dc6c1d020f1e187e&rid=giphy.gif&ct=s" width="200" height="100" 
 About me:
 
 - 🔭 I’m currently working on bettering myself on tech
