@@ -1,5 +1,7 @@
 
-Hello Github About me:
+Hello Github 
+A little 
+About me:
 
 - 🔭 I’m currently working on bettering myself on tech
 - 🌱 I’m currently learning data science 
