@@ -1,7 +1,7 @@
 
 Hello Github 
 
-A little 
+A little something 
 
 About me:
 
