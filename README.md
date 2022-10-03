@@ -1,9 +1,9 @@
 
-Hello:
+Hello:::
 
 A little something:::
 
-About me:
+About me:::
 
 - 🔭 I’m currently working on bettering myself on tech
 - 🌱 I’m currently learning data science 
