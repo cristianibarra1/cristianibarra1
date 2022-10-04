@@ -13,8 +13,6 @@ About me:::
 - 📫 How to reach me: cristian.angel.ibarra@gmail.com
 - ⚡ Fun fact: cat lover for life
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="cristian-ibarra-2bb8a3203" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/cristian-ibarra-2bb8a3203?trk=profile-badge">Cristian Ibarra</a></div>
-              
               
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=cristianibarra1&theme=dark&hide_border=true)](https://git.io/streak-stats)
