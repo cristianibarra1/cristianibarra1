@@ -1,5 +1,5 @@
 
-Hello::::
+Hello:
 
 A little something:
 
