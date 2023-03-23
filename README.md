@@ -1,7 +1,5 @@
 
-Hello
-
-A little something
+Hello 👋 
 
 About me
 
